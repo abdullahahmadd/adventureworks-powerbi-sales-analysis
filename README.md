@@ -1,4 +1,4 @@
-# 📊 AdventureWorks Sales Performance Dashboard
+# 📊 AdventureWorks Regional Sales Performance Dashboard
 ### 🎓 Microsoft Power BI Data Analyst Specialization - Portfolio Project
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=adventureworks-powerbi-datamodel)
@@ -22,7 +22,7 @@
 ---
 
 ## 🔍 Overview
-This project demonstrates end-to-end **data modeling, optimization, and dashboard creation in Power BI** using AdventureWorks sales data. The focus is on building an efficient data model, applying best practices, and delivering actionable business insights through an interactive dashboard.
+This project demonstrates end-to-end **data modeling, optimization, and dashboard creation in Power BI** using AdventureWorks regional sales data. The focus is on building an efficient data model, applying best practices, and delivering actionable business insights through an interactive dashboard.
 
 ---
 
